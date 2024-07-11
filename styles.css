@@ -1,0 +1,24 @@
+/* 
+
+--text: #ffffff;
+--background: #ec90ee;
+--primary: #6491eb;
+--secondary: #e63fbd;
+--accent: #a9e999;
+
+
+*/
+
+body {
+    background-color: #ec90ee;
+}
+
+
+
+h1 {
+    color: white;
+}
+
+#blackH1 {
+    color: black;
+}
