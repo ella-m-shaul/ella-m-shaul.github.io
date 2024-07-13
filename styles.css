@@ -11,8 +11,18 @@
 
 body {
     background-color: #ec90ee;
+    color: white;
 }
 
+button {
+    background-color: #ec90ee;
+    border-radius: 20px;
+    padding: 18px;
+    font-size: medium;
+    border-color: pink;
+    color: white;
+    
+}
 
 
 h1 {
