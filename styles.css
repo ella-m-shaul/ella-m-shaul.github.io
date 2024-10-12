@@ -9,14 +9,14 @@
 
 */
 
-body {
+/* body {
     background-color: #ec90ee;
     color: white;
-}
+} */
 
 button {
     background-color: #ec90ee;
-    border-radius: 20px;
+    /* border-radius: 20px; */
     padding: 18px;
     font-size: medium;
     border-color: pink;
@@ -29,6 +29,6 @@ h1 {
     color: white;
 }
 
-#blackH1 {
+.blackH1 {
     color: black;
 }
